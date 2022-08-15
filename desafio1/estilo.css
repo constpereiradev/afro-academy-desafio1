@@ -1,0 +1,120 @@
+* {
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+body {
+    background-color: black;
+}
+
+.header {
+    text-align: center;
+    color: white;
+}
+.next-page{
+    background-color: #2E266D;
+    width: fit-content;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+/*primeira página*/
+
+.apresentacao {
+    margin-top: 250px;
+    text-align: center;
+}
+.apresentacao > h1 {
+    font-size: 44px;
+}
+.apresentacao > h2{
+    margin-top: 20px;
+    margin-bottom: 200px;
+}
+
+.redes-sociais > a > img {
+    width: 40px;
+}
+
+/*segunda página*/
+
+.mais-informacoes {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.perfil {
+    float: left;
+    margin-left: 400px;
+}
+.perfil > img {
+    height: 250px;
+}
+
+.descricao {
+    width: 400px;
+    background-color: #2E266D;
+    text-align: center;
+    margin-left: 700px;
+    margin-bottom: 100px;
+    padding: 50px;
+}
+.unidades-logo > img {
+    width: 100px;
+    margin-top: 20px;
+}
+
+
+/*terceira página*/
+.tecnologias {
+    background-color: #222A59;
+    text-align: center;
+    height: 300px;
+}
+.aprendendo {
+    margin: 20px;
+    float: left;
+    margin-left: 350px;
+}
+.aprendendo > h3 {
+    background-color: #2E266D;
+    width: fit-content;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.aprendendo > img {
+    height: 50px;
+}
+
+
+.linha {
+    background-color: white;
+    width: 3px;
+    height: 300px;
+    float: left;
+    margin-left: 200px;
+}
+
+
+.quero-aprender > h3 {
+    background-color: #2E266D;
+    width: fit-content;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.quero-aprender {
+    margin-left: 800px;
+}
+
+.quero-aprender > img {
+    height: 50px;
+}
+
+
